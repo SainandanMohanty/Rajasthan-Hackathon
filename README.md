@@ -12,9 +12,6 @@
 
 ###### this repository contains a simple prototype of this idea.
 
-## Languages and API's used
-
-
 ## Running the apps
 
 1. clone the repository
